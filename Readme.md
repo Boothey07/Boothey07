@@ -1,7 +1,5 @@
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 42 mins
-
 C#       15 hrs 32 mins  ████████████████████████▓   99.00 % 
 XML      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
