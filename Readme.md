@@ -1,6 +1,5 @@
 <!--START_SECTION:waka-->
 ```text
-Weekly Stats:
 C#               2 hrs 21 mins   █████████████░░░░░░░░░░░░   51.57 % 
 Python           2 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   46.66 % 
 XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
