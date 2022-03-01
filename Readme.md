@@ -1,4 +1,4 @@
-Weekly Stats:
+Total Stats:
 <!--START_SECTION:waka-->
 
 ```text
