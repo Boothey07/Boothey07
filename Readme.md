@@ -2,12 +2,12 @@ Total Stats:
 <!--START_SECTION:waka-->
 
 ```text
-C#                    52 hrs 58 mins  ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Java                  30 hrs 38 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-Jupyter               20 hrs 7 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-TypeScript            18 hrs 43 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-JavaScript            16 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-unity                 15 hrs 53 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+C#                    52 hrs 58 mins  ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+Java                  30 hrs 39 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+Jupyter               20 hrs 47 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+TypeScript            18 hrs 43 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+JavaScript            16 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+unity                 15 hrs 53 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 
 <!--END_SECTION:waka-->
