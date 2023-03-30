@@ -2,12 +2,11 @@ Total Stats:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript            42 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Java                  32 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Jupyter               25 hrs 11 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-TypeScript            18 hrs 48 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-HTML                  10 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Other                 9 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+JavaScript            42 hrs 30 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+Java                  32 hrs 46 mins  █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Jupyter               25 hrs 11 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+TypeScript            18 hrs 48 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Other                 10 hrs 56 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
