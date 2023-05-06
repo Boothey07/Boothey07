@@ -7,7 +7,6 @@ JavaScript            42 hrs 30 mins  █████▓░░░░░░░░
 Java                  32 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
 TypeScript            18 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
 Dafny                 18 hrs 39 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-HTML                  10 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 ```
 
 <!--END_SECTION:waka-->
